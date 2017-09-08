@@ -14,7 +14,7 @@ sudo python setup.py install
 
 EXAMPLES:
 
-lcd1602.py --> python-periphery 1602 LCD sample
+lcd1602.py --> 1602 LCD sample
 
 gpio.py--> sample 126 gpio
 
