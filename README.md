@@ -13,4 +13,4 @@ lcd.py --> python-periphery 1602 LCD sample
 
 gpio.py--> sample 126 gpio
 
-led.py --> sample led by gpio
+led1602.py --> sample led by gpio
