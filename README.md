@@ -18,4 +18,4 @@ lcd1602.py --> 1602 LCD sample
 
 gpio.py--> sample 126 gpio
 
-led1602.py --> sample led by gpio
+led.py --> sample led by gpio
