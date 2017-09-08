@@ -10,3 +10,5 @@ sudo python setup.py install
 
 
 lcd.py --> python-periphery 1602 LCD sample
+gpio.py--> sample 126 gpio
+led.py --> sample led by gpio
